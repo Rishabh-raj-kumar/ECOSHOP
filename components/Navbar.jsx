@@ -5,7 +5,7 @@ export default function Navbar(props) {
     <nav className="flex items-center justify-between p-4 bg-gray-800 text-white">
     <div className="flex items-center space-x-4">
       <img className="h-8 w-8" src="/logo.svg" alt="Logo" />
-      <h1 className="text-xl font-bold">My Website</h1>
+      <h1 className="text-xl font-bold">ECOSHOP</h1>
     </div>
     <div className="flex-grow text-center">
       <ul className="flex justify-center space-x-4">
