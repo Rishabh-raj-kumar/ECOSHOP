@@ -1,0 +1,15 @@
+[{
+    "id": 1,
+    "title": "Product 1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": "$19.99",
+    "image": "/product1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Product 2",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+    "price": "$24.99",
+    "image": "/product2.jpg"
+  }
+]
