@@ -4,7 +4,6 @@ export default function Navbar(props) {
   return (
     <nav className="flex items-center justify-between p-4 bg-gray-800 text-white">
     <div className="flex items-center space-x-4">
-      <img className="h-8 w-8" src="/logo.svg" alt="Logo" />
       <h1 className="text-xl font-bold">ECOSHOP</h1>
     </div>
     <div className="flex-grow text-center">
@@ -13,7 +12,7 @@ export default function Navbar(props) {
           <a href="/">Home</a>
         </li>
         <li>
-          <a href="/products">Products</a>
+          <a href="/checkout">Checkout</a>
         </li>
         <li>
           <a href="/seller">Seller</a>
